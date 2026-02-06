@@ -1,0 +1,14 @@
+{
+  "name": "bigscreen-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src --ext .ts --ext .tsx --ext .js --ext .jsx --max-warnings=0",
+    "format": "prettier --write 'src/**/*.{ts,tsx,js,jsx,json,css,scss,less,md}'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.28.2"
+}
